@@ -1,0 +1,209 @@
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6.png",VTV1 HD
+udp://@225.1.4.1:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048.png",VTV2 HD
+udp://@225.1.4.2:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14.png",VTV3 HD
+udp://@225.1.4.3:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1.png",VTV4 HD
+udp://@225.1.4.4:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d.png",VTV5 HD
+udp://@225.1.4.5:30120
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01.png",VTV Cần Thơ
+udp://@225.1.4.108:30120
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515518939/7cb734c81a19.png",VTV5 Tây Nam Bộ
+udp://@225.1.4.184:30120
+#EXTINF:-1 tvg-id="vtv5hdtn"  tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515444588/34459b1f8ea5.png",VTV5 Tây Nguyên
+udp://@225.1.4.179:30120
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443.png",VTV7 HD
+udp://@225.1.4.201:30120
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000.png",VTV8 HD
+udp://@225.1.4.7:30120
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc.png",VTV9 HD
+udp://@225.1.4.8:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822333227/695ef75f0c5b.png",VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822508145/db329b99b111.png",VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822277823/6d01106562eb.png",VTC3 HD
+udp://@225.1.4.42:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732730533/1092f3d58332.png",VTC4 HD
+udp://@225.1.4.43:30120
+#EXTINF:-1 tvg-id="vtc5hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823248488/0bf5d1addb2a.png",VTC5
+udp://@225.1.2.199:30120
+#EXTINF:-1 tvg-id="vtc6hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823308298/a9a9fd0966fd.png",VTC6
+udp://@225.1.2.198:30120
+#EXTINF:-1 tvg-id="vtc7hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732855913/5a32f3432acc.png",VTC7
+udp://@225.1.2.197:30120
+#EXTINF:-1 tvg-id="vtc8"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822237317/7e3263a08d04.png",VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 tvg-id="vtc9hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823388377/3c41260460a0.png",VTC9 HD
+udp://@225.1.4.48:30120
+#EXTINF:-1 tvg-id="vtc10" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822325917/961e32e809ff.png",VTC10 HD
+udp://@225.1.4.49:30120
+#EXTINF:-1 tvg-id="vtc11" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823506689/4deaf68ae9bc.png",VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/VTC12_2018.png/revision/latest?cb=20220204073936&path-prefix=vi",VTC12
+udp://@225.1.2.51:30120
+#EXTINF:-1 tvg-id="vtc13hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/15/16897548183/62ca7c8a155e.png",VTC13 HD
+udp://@225.1.4.52:30120
+#EXTINF:-1 tvg-id="vtc14hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822452264/9aee0be36d19.png",VTC14 HD
+udp://@225.1.4.53:30120
+#EXTINF:-1 tvg-id="vtc16" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822490601/483ca340a5e6.png",VTC16 HD
+udp://@225.1.4.54:30120
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6.png",HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823498725/2e64140da5c1.png",HTV3
+udp://@225.1.1.178:30120
+#EXTINF:-1 tvg-id="htvkey" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/02/1680290329210/3e3b1af7a50d.png",HTV Keys
+udp://@225.1.1.177:30120
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6.png",HTV2 Vie Channel
+udp://@225.1.4.56:30120
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141.png",HTV7 HD
+udp://@225.1.4.59:30120
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b.png",HTV9 HD
+udp://@225.1.4.11:30120
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015.png",HTV THỂ THAO 
+udp://@225.1.4.60:30120
+#EXTINF:0 tvg-id="htvcphimthd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3.png",HTVC Phim HD
+#udp://@225.1.1.85:30120
+udp://@225.1.4.63:30120
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1.png",HTVC Du Lịch và Cuộc Sống 
+udp://@225.1.4.67:30120
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71.png",HTVC Ca Nhạc 
+udp://@225.1.4.223:30120
+#EXTINF:-1  tvg-id="htvcgiadinhhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a.png",HTVC Gia Đình 
+udp://@225.1.4.64:30120
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6.png",HTVC Phụ Nữ 
+udp://@225.1.4.66:30120
+#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da.png",HTVC Thuần Việt 
+udp://@225.1.4.62:30120
+#EXTINF:-1 tvg-id"htvcplushd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e.png",HTVC+ 
+udp://@225.1.4.91:30120
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/1582?cb=20220223142109&path-prefix=vi", SCTV6 HD
+udp://@225.1.4.211:30120
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8.png",ANTV HD (HD 4Mbps)
+udp://@225.1.4.221:30120
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822524686/56155e5fc946.png",Nhân Dân TV (HD 4Mbps)
+udp://@225.1.4.98:30120
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/06/03/10/1654228283744/fa8c885bd8ca.png",Quốc Hội HD (HD 4Mbps)
+udp://@225.1.4.148:30120
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822254297/3c150355b7f8.png",QPVN (HD 4Mbps)
+udp://@225.1.4.170:30120
+#EXTINF:-1 tvg-id="vnews" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822812268/96c2ed28d08e.png",VNEWS (HD 4Mbps)
+udp://@225.1.4.219:30120
+#EXTINF:-1 tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png",VOV TV
+udp://@225.1.2.171:30120
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
+udp://@225.1.4.9:30120
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
+udp://@225.1.4.205:30120
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO 
+udp://@225.1.4.90:30120
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png",Arirang
+udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch319_160_115",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png",ABC AUSTRALIA 
+udp://@225.1.4.19:30120
+#EXTINF:-1 ,Animal Planet 
+udp://@225.1.4.209:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_160_115",Animax HD
+udp://@225.1.4.168:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480.png",Asian Food Network 
+udp://@225.1.4.36:30120
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/BabyTV.png/1200px-BabyTV.png",BabyTV
+udp://@225.1.4.207:30120
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/CBeebies_II.png",BBC CBeeBies
+udp://@225.1.4.29:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch220_160_115",BBC earth HD 
+udp://@225.1.4.21:30120
+#EXTINF:-1 ,BBC lifestyle 
+udp://@225.1.4.23:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch320_170_122",BBC NEWS 
+udp://@225.1.4.22:30120
+#EXTINF:-1 ,BLOOMBERG 
+udp://@225.1.4.18:30120
+#EXTINF:-1 ,BOOMERANG 
+udp://@225.1.4.16:30120
+#EXTINF:-1 ,CARTOON NETWORK HD 
+udp://@225.1.4.13:30120
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png",Cinema World 
+udp://@225.1.4.15:30120
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",CNA 
+udp://@225.1.4.76:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch316_160_115",CNN 
+udp://@225.1.4.17:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch460_160_115",Da Vinci 
+udp://@225.1.4.208:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_160_115",Discovery Asia 
+udp://@225.1.4.25:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632999438220/cb5b2ef01b69.png",Discovery Channel 
+udp://@225.1.4.24:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch440_160_115",Dreamworks 
+udp://@225.1.4.39:30120
+#EXTINF:-1 ,DW (HD 4Mbps)
+udp://@225.1.4.75:30120
+#EXTINF:-1 ,FASHION TV HD 
+udp://@225.1.4.20:30120
+#EXTINF:-1 ,FRANCE 24 
+udp://@225.1.4.212:30120
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO (HD 4Mbps)
+#udp://@225.1.4.183:30120
+#EXTINF:-1 ,KBS WORLD (HD 4Mbps)
+udp://@225.1.4.214:30120
+#EXTINF:-1 ,KIX (HD 4Mbps)
+udp://@225.1.4.40:30120
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+udp://@225.1.4.215:30120
+#EXTINF:-1 ,NAT GEO WILD HD (HD 4Mbps)
+udp://@225.1.4.83:30120
+#EXTINF:-1 ,NHK WORLD JAPAN (HD 4Mbps)
+udp://@225.1.4.73:30120
+#EXTINF:-1 ",Outdoor Channel (HD 4Mbps)
+udp://@225.1.4.210:30120
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",TLC (HD 4Mbps)
+udp://@225.1.4.26:30120
+#EXTINF:-1 ,TV5 MONDE ASIE (HD 4Mbps)
+udp://@225.1.4.213:30120
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6.png", Warner TV HD
+udp://@225.1.4.14:30120
+#EXTINF:-1  ,STV _ TH Sơn La
+udp://@225.1.1.98:30120
+#EXTINF:-1  ,QTV3 _ TH Quảng Ninh
+udp://@225.1.2.180:30120
+#EXTINF:-1  ,THHN _ TH Hà Nam
+udp://@225.1.1.63:30120
+#EXTINF:-1  ,THD _ TH Hải Dương
+udp://@225.1.1.158:30120
+#EXTINF:-1  ,HY _ TH Hưng Yên
+udp://@225.1.1.118:30120
+#EXTINF:-1  ,NTV _ TH Nam Định
+udp://@225.1.1.120:30120
+#EXTINF:-1  ,TTV _ TH Thanh Hóa
+udp://@225.1.2.184:30120
+#EXTINF:-1  ,TRT _ TH Thừa Thiên Huế
+udp://@225.1.1.161:30120
+#EXTINF:-1  ,NTV _ TH Ninh Thuận
+udp://@225.1.2.178:30120
+#EXTINF:-1  ,BPTV1 _ TH Bình Phước
+udp://@225.1.2.23:30120
+#EXTINF:-1  ,BPTV2 _ TH Bình Phước
+udp://@225.1.2.38:30120
+#EXTINF:-1  ,BTV6 _ TH Bình Dương
+udp://@225.1.1.223:30120
+#EXTINF:-1  ,LA34 _ TH Long An
+udp://@225.1.1.162:30120
+#EXTINF:-1  ,ATV _ TH An Giang
+udp://@225.1.2.173:30120
+#EXTINF:-1  ,STV1 _ TH Sóc Trăng
+udp://@225.1.1.159:30120
+#EXTINF:-1  ,BGTV HD _ TH Bắc Giang
+udp://@225.1.4.173:30120
+#EXTINF:-1  ,TBK HD _ TH Bắc Kạn
+udp://@225.1.4.174:30120
+#EXTINF:-1  ,THVL1 HD _ TH Vĩnh Long (HD 4Mbps)
+udp://@225.1.4.202:30120
+#EXTINF:-1  ,THVL2 HD _ TH Vĩnh Long (HD 4Mbps)
+udp://@225.1.4.87:30120
+#EXTINF:-1  ,THVL3 HD _ TH Vĩnh Long (HD 4Mbps)
+udp://@225.1.4.176:30120
